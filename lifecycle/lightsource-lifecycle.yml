@@ -1,0 +1,18 @@
+generated: '2026-07-19'
+method: searched
+source: https://lightsource.ai/security
+# LightSource is a SaaS procurement platform with no public API, so there is no
+# API versioning or deprecation policy to capture. What is real and published is
+# a dedicated status host, recorded here and wired as a StatusPage pointer.
+versioning: null
+deprecation: null
+sla: null
+status_page: https://status.lightsource.ai/
+status_page_evidence: >-
+  Dedicated status host resolves and renders a "LightSource Status" page;
+  referenced from https://lightsource.ai/security as the source for real-time
+  platform availability.
+deprecated_operations: []
+notes:
+- No public API specification is published, so no deprecated operations can be derived.
+- No published deprecation policy or Sunset/Deprecation (RFC 8594) header support found.

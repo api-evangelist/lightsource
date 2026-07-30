@@ -1,0 +1,35 @@
+generated: '2026-07-19'
+method: searched
+probe: false
+source: https://lightsource.ai/security
+# There is no dedicated trust-center host (trust.lightsource.ai does not
+# resolve). LightSource publishes its security and compliance posture on the
+# /security page of the marketing site, which is what is captured here.
+url: https://lightsource.ai/security
+dedicated_trust_host: false
+certifications:
+- name: SOC 2 Type 2
+  status: attested
+  auditor: Sensiba
+  scope: LightSource platform
+  criteria: [security, availability, confidentiality]
+  note: >-
+    "Lightsource.ai has been issued an attestation report by Sensiba for the
+    LightSource platform." Trust Services Criteria per AICPA standards.
+controls:
+- Encryption at rest with securely managed keys
+- Encryption in transit via SSL/TLS
+- Single sign-on (SSO) and multi-factor authentication support
+- Role-based access control with least privilege
+- Daily automated backups
+- Disaster recovery plan tested annually
+- Continuous monitoring of 100+ security controls
+not_claimed:
+# Recorded explicitly so a later round does not re-search these.
+- ISO 27001
+- PCI DSS
+- HIPAA
+- FedRAMP
+evidence:
+- source: https://lightsource.ai/security
+  keywords: [soc 2 type 2, trust services criteria, aicpa, encryption, sso]

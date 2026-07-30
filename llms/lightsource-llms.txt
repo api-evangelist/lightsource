@@ -1,0 +1,145 @@
+# LightSource
+
+> AI-Native Direct Materials Procurement OS. Automate RFX, collaborate with suppliers to ship products, and track costs effortlessly. Powering procurement teams at Fortune 500 companies with 3-25% cost savings.
+
+## Main Website
+
+### Core Pages
+
+- [Home](https://lightsource.ai/): AI-native procurement platform homepage with product overview, customer testimonials, and key value propositions
+- [Product](https://lightsource.ai/product): Detailed product features including RFX automation, AI-powered bid analysis, and supplier collaboration tools
+- [Customers](https://lightsource.ai/customers): Customer success stories and testimonials from procurement leaders
+- [Blog](https://lightsource.ai/blog): Direct materials sourcing insights covering AI, NPI, and procurement strategy
+- [News](https://lightsource.ai/news): Press coverage and company announcements
+- [Careers](https://lightsource.ai/careers): Open positions and company culture information
+- [Contact](https://lightsource.ai/contact): Get in touch with the LightSource team
+- [Security](https://lightsource.ai/security): SOC2 certification and security practices overview
+
+### Legal
+
+- [Terms of Service](https://lightsource.ai/terms): Platform terms and conditions
+- [Privacy Policy](https://lightsource.ai/privacypolicy): Data handling and privacy practices
+
+## Customer Case Studies
+
+- [Time Manufacturing / Versalift](https://lightsource.ai/customers/time-manufacturing-versalift): Leading industrial manufacturer achieving multi-million dollar savings and accelerated sourcing cycles
+- [Arxada](https://lightsource.ai/customers/arxada): Specialty chemicals leader driving process efficiency and cost control in tail spend chemicals sourcing
+
+## Blog Articles
+
+### AI & Technology
+
+- [What is AI Procurement](https://lightsource.ai/blog/what-is-ai-procurement): Introduction to AI-powered procurement automation
+- [The AI Tipping Point](https://lightsource.ai/blog/the-ai-tipping-point-how-generative-ai-is-reshaping-procurement): How generative AI is reshaping procurement operations
+- [How Strategic Procurement Leaders Can Navigate the AI Tipping Point](https://lightsource.ai/blog/how-strategic-procurement-leaders-can-navigate-the-ai-tipping-point): Guide for CPOs adopting AI
+- [AI Future of Procurement](https://lightsource.ai/blog/ai-future-of-procurement): Vision for AI-driven procurement transformation
+- [Transforming Direct Material Cost Modeling with AI](https://lightsource.ai/blog/transforming-direct-material-cost-modeling-with-ai): AI applications in cost modeling
+- [Predictive Procurement](https://lightsource.ai/blog/predictive-procurement): Using predictive analytics in sourcing decisions
+- [Third Wave of SaaS](https://lightsource.ai/blog/third-wave-of-saas): Evolution of procurement software platforms
+
+### Procurement Fundamentals
+
+- [What is RFX](https://lightsource.ai/blog/what-is-rfx): Guide to Request for Quote/Proposal/Information processes
+- [RFQ in Procurement](https://lightsource.ai/blog/rfq-in-procurement): Deep dive into Request for Quote workflows
+- [Iterative RFPs](https://lightsource.ai/blog/iterative-rfps): Managing multi-round procurement negotiations
+- [What is Supply Chain](https://lightsource.ai/blog/what-is-supply-chain): Supply chain fundamentals overview
+- [Purchasing Procurement Sourcing](https://lightsource.ai/blog/purchasing-procurement-sourcing): Differences between purchasing, procurement, and sourcing
+- [Difference Between Direct and Indirect](https://lightsource.ai/blog/difference-between-direct-indirect): Direct vs indirect procurement explained
+- [Indirect Procurement Dummies](https://lightsource.ai/blog/indirect-procurement-dummies): Beginner's guide to indirect procurement
+- [Indirect Procurement The Underdog](https://lightsource.ai/blog/indirect-procurement-the-underdog): Strategic importance of indirect spend
+- [What is New Product Introduction (NPI)](https://lightsource.ai/blog/what-is-new-product-introduction-npi): NPI processes and procurement's role
+
+### Sourcing Software & Tools
+
+- [Best Procurement Software](https://lightsource.ai/blog/best-procurement-software): Comparison of procurement software solutions
+- [Sourcing Software](https://lightsource.ai/blog/sourcing-software): Guide to sourcing software platforms
+- [Unlocking Efficiency with Advanced Sourcing Software](https://lightsource.ai/blog/unlocking-efficiency-and-value-with-advanced-sourcing-software): Benefits of modern sourcing tools
+- [Maximize Benefits of E-Sourcing Software](https://lightsource.ai/blog/maximize-benefits-of-e-sourcing-software): Getting the most from e-sourcing platforms
+- [Ease of Use E-Sourcing](https://lightsource.ai/blog/ease-of-use-e-sourcing): Importance of usability in sourcing tools
+- [Current Penetration Sourcing Software](https://lightsource.ai/blog/current-penetration-sourcing-software): Market adoption of sourcing software
+- [Why Your Next Sourcing Optimization Tool Must Be Intelligent](https://lightsource.ai/blog/why-your-next-sourcing-optimization-tool-must-be-intelligent): Case for AI-powered sourcing
+- [Key Integrations](https://lightsource.ai/blog/key-integrations): Important software integrations for procurement
+- [A Perfect Marriage: PLM and E-Sourcing](https://lightsource.ai/blog/a-perfect-marriage-plm-and-e-sourcing): Product lifecycle management and sourcing integration
+
+### Cost Management
+
+- [Should Cost Modeling Changes the Game](https://lightsource.ai/blog/should-cost-modeling-changes-the-game): Impact of should-cost analysis on negotiations
+- [BOM Cost Management](https://lightsource.ai/blog/bom-cost-management): Bill of materials cost optimization
+- [Spend Analysis 101](https://lightsource.ai/blog/spend-analysis-101): Introduction to procurement spend analysis
+- [Procurement Analytics](https://lightsource.ai/blog/procurement-analytics): Using data analytics in procurement
+- [Measuring the ROI of AI](https://lightsource.ai/blog/measuring-the-roi-of-ai-building-the-business-case-for-intelligent-sourcing): Building business cases for AI sourcing
+
+### Supplier Management
+
+- [Vendor Management for a New Era](https://lightsource.ai/blog/vendor-management-for-a-new-era-of-procurement): Modern vendor management strategies
+- [Supplier Partnership Hierarchy](https://lightsource.ai/blog/supplier-partnership-hierarchy): Levels of supplier relationships
+- [Supplier Diversity](https://lightsource.ai/blog/supplier-diversity): Building diverse supplier bases
+- [Auction Fairness in Procurement Sourcing](https://lightsource.ai/blog/auction-fairness-in-procurement-sourcing-balancing-efficiency-equity-and-strategic-value): Balancing efficiency, equity, and strategic value
+
+### Industry-Specific Procurement
+
+- [Automotive Procurement 101](https://lightsource.ai/blog/automotive-procurement-101): Procurement strategies for automotive industry
+- [Healthcare Procurement 101](https://lightsource.ai/blog/healthcare-procurement-101): Healthcare industry procurement guide
+- [Food Procurement 101](https://lightsource.ai/blog/food-procurement-101): Food and beverage procurement best practices
+- [Chemical Procurement](https://lightsource.ai/blog/chemical-procurement): Chemical industry sourcing strategies
+- [Apparel Procurement 101](https://lightsource.ai/blog/apparel-procurement-101): Fashion and apparel sourcing guide
+- [How to Build a Car](https://lightsource.ai/blog/how-to-build-a-car): Automotive supply chain and component sourcing
+- [Incoterms: A Complete Guide](https://lightsource.ai/blog/incoterms-a-complete-guide): International commercial terms explained
+
+### Strategy & Leadership
+
+- [The Modern Chief Procurement Officer](https://lightsource.ai/blog/the-modern-chief-procurement-officer-adapting-to-change-and-leading-with-ai-in-2025): CPO role evolution in 2025
+- [Why Procurement Matters More Than Sales](https://lightsource.ai/blog/why-procurement-matters-more-than-sales): Strategic importance of procurement function
+- [Sales Marketing Finance](https://lightsource.ai/blog/sales-marketing-finance): Cross-functional collaboration in procurement
+- [Mastering the Cost Quality Sustainability Triangle](https://lightsource.ai/blog/mastering-the-cost-quality-sustainability-triangle): Balancing competing priorities
+- [Sustainable Procurement](https://lightsource.ai/blog/sustainable-procurement): Environmental sustainability in sourcing
+- [Supply Chain Success](https://lightsource.ai/blog/supply-chain-success): Keys to supply chain excellence
+- [Supply Chain Double Standards](https://lightsource.ai/blog/supply-chain-double-standards): Addressing inconsistencies in supply chain practices
+- [Before You Invest in Another Tech Stack](https://lightsource.ai/blog/before-you-invest-in-another-tech-stack-your-best-resilience-tool-is-already-on-your-payroll): Leveraging existing resources
+
+### Company News & Recognition
+
+- [What is LightSource](https://lightsource.ai/blog/what-is-lightsource): Company overview and mission
+- [LightSource Funding News](https://lightsource.ai/blog/lightsource-funding-news): $33.5M Series A announcement
+- [How LightSource Will Use Funding to Transform Procurement](https://lightsource.ai/blog/how-lightsource-will-use-funding-to-transform-procurement): Growth plans and vision
+- [From Stealth to Series A](https://lightsource.ai/blog/from-stealth-to-series-a-lightsource-s-ai-driven-revolution): Company journey and milestones
+- [LightSource Emerges from Stealth](https://lightsource.ai/blog/lightsource-emerges-from-stealth): Launch announcement
+- [LightSource Recognized in ProcureTech100](https://lightsource.ai/blog/lightsource-recognized-in-this-year%E2%80%99s-procuretech100): Industry recognition
+- [LightSource Validated in Spend Matters SolutionMap](https://lightsource.ai/blog/lightsource-is-validated-in-the-fall-2025-spend-matters-solutionmap): Analyst validation
+- [LightSource at NYSE FloorTalk](https://lightsource.ai/blog/lightsource-at-nyse-floortalk-discussing-ai-powered-procurement-the-future-of-direct-material-sourcing): NYSE discussion on AI procurement
+- [LightSource at NYSE: Spencer Penn Unveils Future of Spec-to-Scale](https://lightsource.ai/blog/lightsource.ai-at-nyse-spencer-penn-unveils-the-future-of-spec-to-scale-sourcing-for-ces-2026): CES 2026 preview
+- [CPO Strategy: Spec to Scale (S2S)](https://lightsource.ai/blog/cpo-strategy-lightsource-spec-to-scale-(s2s)-a-new-religion-for-direct-procurement): Spec-to-scale methodology
+- [DPW Rundown and Recap](https://lightsource.ai/blog/dpw-rundown-and-recap): Digital Procurement World event coverage
+- [Inflation Gate White Paper](https://lightsource.ai/blog/inflation-gate-white-paper): Research on inflation impact on procurement
+
+### Press Coverage
+
+- [Trump's Tariffs and Supply Chain Software](https://lightsource.ai/blog/trump-s-tariffs-could-mean-big-business-for-supply-chain-software-startup-lightsource): Media coverage on tariff impact
+- [Business Insider Coverage](https://lightsource.ai/blog/business-insider-as-told): Business Insider feature
+- [PYMNTS Coverage: Funding News](https://lightsource.ai/blog/pymnts-coverage-funding-news): PYMNTS media coverage
+- [Arxada Case Study](https://lightsource.ai/blog/arxada): Customer success story
+
+## Events & Marketing
+
+- [DPW Amsterdam](https://lightsource.ai/m/dpw): Digital Procurement World Amsterdam event page
+- [MEMA](https://lightsource.ai/m/mema): Motor & Equipment Manufacturers Association event
+- [CES](https://lightsource.ai/m/ces): Consumer Electronics Show presence
+- [THG LightSource Webinar](https://lightsource.ai/m/thg-lightsource-webinar): Webinar partnership
+- [McKinsey PEF](https://lightsource.ai/m/mckpef): McKinsey Procurement Excellence Forum
+- [BE Direct](https://lightsource.ai/m/bedirect): BE Direct event page
+- [LightSource Recognition](https://lightsource.ai/m/lightsource-recognition): Awards and recognition page
+- [Tariffs Survey](https://lightsource.ai/tarriffs-survey): Tariff impact research survey
+
+## Careers
+
+- [Product Designer](https://lightsource.ai/careers/product-designer): Product design position
+- [Account Executive](https://lightsource.ai/careers/account-executive): Sales position
+- [Software Engineer - Generalist](https://lightsource.ai/careers/software-engineer-generalist): Engineering position
+
+## Team
+
+- [Contact Kieran](https://lightsource.ai/contact/kieran): Direct contact for Kieran
+
+## Additional
+
+- [Thank You](https://lightsource.ai/thanks): Post-submission confirmation page

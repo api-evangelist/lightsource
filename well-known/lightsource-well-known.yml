@@ -1,0 +1,34 @@
+generated: '2026-07-19'
+method: probed
+source: live probes of https://lightsource.ai/.well-known/*
+host: https://lightsource.ai
+# NOTE: lightsource.ai is a Next.js static export that serves the marketing
+# homepage HTML (content-type text/html) for EVERY unmatched path, including
+# unknown paths such as /totally-bogus-path-xyz123. Every /.well-known/ probe
+# therefore returns HTTP 200 with the homepage shell and is a FALSE POSITIVE.
+# Verified by control-path comparison on 2026-07-19. No well-known discovery
+# surface is actually published, so no WellKnown/SecurityTxt pointer is wired
+# into apis.yml.
+catch_all_html: true
+control_path: /totally-bogus-path-xyz123
+documents:
+- path: /.well-known/security.txt
+  status: 200
+  present: false
+  reason: catch-all HTML homepage, not RFC 9116 text
+- path: /.well-known/openid-configuration
+  status: 200
+  present: false
+  reason: catch-all HTML homepage, not OIDC discovery JSON
+- path: /.well-known/oauth-authorization-server
+  status: 200
+  present: false
+  reason: catch-all HTML homepage, not RFC 8414 JSON
+- path: /.well-known/api-catalog
+  status: 200
+  present: false
+  reason: catch-all HTML homepage, not RFC 9727 api-catalog
+- path: /.well-known/ai-plugin.json
+  status: 200
+  present: false
+  reason: catch-all HTML homepage, not plugin manifest
