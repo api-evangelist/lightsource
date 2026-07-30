@@ -1,22 +1,48 @@
 aid: lightsource
 name: LightSource
-description: 'LightSource is a company surfaced as a portfolio company of bain-capital-ventures, lightspeed-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. Sector: physical-ai. This profile
-  is a lead awaiting the enrichment pipeline.'
+description: 'LightSource is an AI-native direct materials procurement platform that
+  connects engineering, procurement, and suppliers across the full sourcing lifecycle
+  from concept to award. The product automates RFX creation and distribution, AI-assisted
+  bid analysis, supplier collaboration and quote normalization across custom quote formats,
+  and ongoing cost tracking, with more than 20,000 suppliers live on the network. It is
+  sold to procurement and supply-chain teams in automotive, electronics, chemicals, medical
+  devices, construction, and forest products, and the company reports sourcing cost reductions
+  of 3-25% for customers including Time Manufacturing (Versalift), Arxada, BRP, and Canada
+  Goose. LightSource is SOC 2 Type 2 attested and supports SSO and role-based access control.
+  As of July 2026 the company publishes no public API, developer portal, or OpenAPI specification;
+  its docs host is an end-user and supplier help center.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://lightsource.ai/favicon.ico
 url: https://raw.githubusercontent.com/api-evangelist/lightsource/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - bain-capital-ventures
 - lightspeed-venture-partners
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profiled
+x-tier-reason: enriched-no-public-api
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
-- Physical Ai
+- Procurement
+- Supply Chain
+- Sourcing
+- Direct Materials
+- Manufacturing
+- Artificial Intelligence
+- Enterprise Software
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +52,38 @@ maintainers:
 common:
 - type: Website
   url: https://lightsource.ai/
+- type: Documentation
+  url: https://docs.lightsource.ai/public/en/
+- type: Support
+  url: https://lightsource.ai/contact
+- type: Blog
+  url: https://lightsource.ai/blog
+- type: Login
+  url: https://app.lightsource.ai/
+- type: TermsOfService
+  url: https://lightsource.ai/terms
+- type: PrivacyPolicy
+  url: https://lightsource.ai/privacypolicy
+- type: Security
+  url: https://lightsource.ai/security
+- type: Compliance
+  url: https://lightsource.ai/security
+- type: StatusPage
+  url: https://status.lightsource.ai/
+- type: LLMsTxt
+  url: llms/lightsource-llms.txt
+- type: Lifecycle
+  url: lifecycle/lightsource-lifecycle.yml
+- type: Conformance
+  url: conformance/lightsource-conformance.yml
+- type: DomainSecurity
+  url: security/lightsource-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/lightsource-vulnerability-disclosure.yml
+- type: TrustCenter
+  url: security/lightsource-trust-center.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
