@@ -11,6 +11,17 @@ description: 'LightSource is an AI-native direct materials procurement platform 
   Goose. LightSource is SOC 2 Type 2 attested and supports SSO and role-based access control.
   As of July 2026 the company publishes no public API, developer portal, or OpenAPI specification;
   its docs host is an end-user and supplier help center.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
