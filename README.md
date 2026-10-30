@@ -64,22 +64,89 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LightSource is an AI-native direct materials procurement platform that connects engineering, procurement, and suppliers across the full sourcing lifecycle from concept to award — automating RFX, AI-assisted bid analysis, supplier collaboration, and cost tracking across a network of 20,000+ live suppliers.
+LightSource is an AI-native direct materials procurement platform that connects engineering, procurement, and suppliers across the full sourcing lifecycle from concept to award. The product automates RFX creation and distribution, AI-assisted bid analysis, supplier collaboration and quote normalization across custom quote formats, and ongoing cost tracking, with more than 20,000 suppliers live on the network. It is sold to procurement and supply-chain teams in automotive, electronics, chemicals, medical devices, construction, and forest products, and the company reports sourcing cost reductions of 3-25% for customers including Time Manufacturing (Versalift), Arxada, BRP, and Canada Goose. LightSource is SOC 2 Type 2 attested and supports SSO and role-based access control. As of July 2026 the company publishes no public API, developer portal, or OpenAPI specification; its docs host is an end-user and supplier help center.
 
-As of July 2026 LightSource publishes **no public API, developer portal, or OpenAPI specification**. Its documentation host is an end-user and supplier help center. This profile therefore captures the company's identity, security/compliance posture, and published `llms.txt` rather than API artifacts.
+**Areas:** Company · Procurement · Supply Chain · Sourcing · Direct Materials · Manufacturing · Artificial Intelligence · Enterprise Software
 
-Backed by: bain-capital-ventures, lightspeed-venture-partners — https://lightsource.ai/
+## LightSource on APIs.io
 
-## Artifacts
+Everything profiled for LightSource is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lightsource/](https://apis.io/providers/lightsource/)** — or go straight to one of the APIs or properties below.
 
-| Artifact | File | Method |
-|---|---|---|
-| llms.txt | `llms/lightsource-llms.txt` | searched (verbatim) |
-| Domain security | `security/lightsource-domain-security.yml` | probed |
-| Vulnerability disclosure | `security/lightsource-vulnerability-disclosure.yml` | searched |
-| Trust center / compliance | `security/lightsource-trust-center.yml` | searched |
-| Conformance | `conformance/lightsource-conformance.yml` | searched |
-| Lifecycle / status page | `lifecycle/lightsource-lifecycle.yml` | searched |
-| Well-known (negative result) | `well-known/lightsource-well-known.yml` | probed |
+### Published properties
 
-> **Probing note:** `lightsource.ai` is a Next.js static export that returns HTTP 200 with the marketing homepage for *every* unmatched path. All `/.well-known/*` probes are false positives — verified against a control path. Do not trust status codes alone on this host.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lightsource Domain Security](https://apis.io/security/lightsource/lightsource-domain-security/)
+- [Lightsource Trust Center](https://apis.io/security/lightsource/lightsource-trust-center/)
+- [Lightsource Vulnerability Disclosure](https://apis.io/security/lightsource/lightsource-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lightsource.ai/)
+- [Documentation](https://docs.lightsource.ai/public/en/)
+- [Support](https://lightsource.ai/contact)
+- [Blog](https://lightsource.ai/blog)
+- [Security](https://lightsource.ai/security)
+- [Compliance](https://lightsource.ai/security)
+- [Terms of service](https://lightsource.ai/terms)
+- [Privacy policy](https://lightsource.ai/privacypolicy)
+- [Status](https://status.lightsource.ai/)
+
+## API Evangelist rating
+
+**Kin Score 13.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 14.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lightsource/](https://apis.io/providers/lightsource/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LightSource: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lightsource/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
